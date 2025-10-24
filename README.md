@@ -54,8 +54,7 @@ The controller design and methodology are based on the approach presented in the
 
 
 <p align="center">
-  <img title="Fig1" height="220" src="images/Figure_1.png">
-  <br />
-  <img title="Fig2" height="220" src="images/Figure_2.png">
+  <img title="Fig1" height="300" src="images/Figure_1.png">
+  <img title="Fig2" height="300" src="images/Figure_2.png">
   <br />
 </p>
