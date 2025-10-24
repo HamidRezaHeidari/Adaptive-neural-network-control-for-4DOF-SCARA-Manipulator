@@ -1,4 +1,4 @@
-# 🤖4-DOF SCARA Robot — Adaptive Neural Network Control
+# 🤖4-DOF SCARA Robot:Adaptive Neural Network Control
 
 This repository presents the complete modeling, simulation, and adaptive control of a 4-degree-of-freedom SCARA robot (three revolute joints and one prismatic joint) in MATLAB/Simulink Multibody Simulation.
 The project integrates CAD-based mechanical modeling, dynamic simulation, and adaptive neural network (ANN) control to achieve precise end-effector motion under sensor noise and external disturbances.
