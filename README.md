@@ -39,18 +39,19 @@ Comparative performance between the base, convergence-guaranteed, and finite-tim
 The SCARA (Selective Compliance Assembly Robot Arm) is a parallel-axis robot used widely in assembly operations, pick-and-place tasks, and precision automation.
 Its planar movement capability, combined with high stiffness in the vertical direction, makes it ideal for industrial applications requiring high speed and repeatability.
 
+# 🎯Features
+
+-CAD-based 4-DOF SCARA robot modeling    
+-MATLAB Multibody simulation with dynamic visualization    
+-Adaptive Neural Network controller implementation       
+-Robust control under noise and disturbance     
+-Comparative study of three control strategies (a, b, c)   
+
 # 📘Reference Paper
 
 The controller design and methodology are based on the approach presented in the following paper:
 🔗 Adaptive neural network control for robotic manipulators with guaranteed finite-time convergence
 
-# 🎯Features
-
--CAD-based 4-DOF SCARA robot modeling
--MATLAB Multibody simulation with dynamic visualization
--Adaptive Neural Network controller implementation
--Robust control under noise and disturbance
--Comparative study of three control strategies (a, b, c)
 
 <p align="center">
   <img title="Fig1" height="410" src="images/Figure_1.png">
