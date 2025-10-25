@@ -51,6 +51,7 @@ Its planar movement capability, combined with high stiffness in the vertical dir
 
 The controller design and methodology are based on the approach presented in the following paper:     
 🔗 Adaptive neural network control for robotic manipulators with guaranteed finite-time convergence
+✨Star if you find it useful
 
 
 <p align="center">
